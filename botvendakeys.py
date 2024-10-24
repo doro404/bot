@@ -23,7 +23,7 @@ def generate_token(length=15):
 
 token_bot = "7082852144:AAHl6NOGCgrcNzejNEYN33k7fzTE5ydstGw"
 
-access_token = '7082852144:AAHl6NOGCgrcNzejNEYN33k7fzTE5ydstGw'
+access_token = 'APP_USR-3181056698605954-012019-9e2d62dd6b20ec161ecd86847fb21069-1467329510'
 
 ids = [6423539592]
 
